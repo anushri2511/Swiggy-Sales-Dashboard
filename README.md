@@ -163,6 +163,4 @@ Give this repository a ⭐ on GitHub and share your feedback!
 
 ---
 
-# 📢 Tags
 
-`Excel Dashboard` `Data Analytics` `Data Visualization` `Business Intelligence` `Swiggy` `Excel Project`
