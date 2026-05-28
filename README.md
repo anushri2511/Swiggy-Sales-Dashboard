@@ -8,7 +8,7 @@ An interactive **Excel Dashboard** built to analyze **Swiggy sales performance**
 
 # 📸 Dashboard Preview
 
-![Swiggy Dashboard](Dashboard%20Preview/Dashboard.png)
+![Swiggy Dashboard]([Dashboard%20Preview/Dashboard.png](https://github.com/anushri2511/Swiggy-Sales-Dashboard/blob/b595f7c54e66cd181b6fa30f1712fe6967920356/Swiggy%20Raw%20Data%20Excel.xlsx))
 
 ---
 
