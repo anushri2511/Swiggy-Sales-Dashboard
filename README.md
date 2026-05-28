@@ -144,7 +144,8 @@ This dashboard provides a centralized view of important business metrics and tre
 
 ## 📊 Main Dashboard
 
-[https://github.com/anushri2511/Swiggy-Sales-Dashboard/blob/acdf7766cba4e98df0904e3f3b5a4e992dfdd60f/Swiggy%20Dashboard.xlsx](https://github.com/anushri2511/Swiggy-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+<img width="1146" height="641" alt="Dashboard" src="https://github.com/user-attachments/assets/823f6e43-c84d-4837-add4-8a4d3adaefe4" />
+
 
 ---
 
